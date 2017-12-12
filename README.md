@@ -63,3 +63,8 @@
 
 - Vue.js API
 - Vuex
+
+***
+
++ [ECMAScript 6 슬라이드](http://slides.com/yamoo9/es6/)
++ [Babel 키노트](http://slides.com/yamoo9/babel#/)
